@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section16" Database="" Version="10000">
+  <Project Name="TheProblem" Path="../TheProblem/TheProblem/TheProblem.project" Active="No"/>
+  <Project Name="BaseClassPointers" Path="../BaseClassPointers/BaseClassPointers/BaseClassPointers.project" Active="No"/>
+  <Project Name="VirtualDestructor" Path="../VirtualDestructor/VirtualDestructor/VirtualDestructor.project" Active="No"/>
+  <Project Name="BaseClassReference" Path="../BaseClassReference/BaseClassReference/BaseClassReference.project" Active="No"/>
+  <Project Name="PureVirtualFunctionAndAbstractClass" Path="../PureVirtualFunctionAndAbstractClass/PureVirtualFunctionAndAbstractClass/PureVirtualFunctionAndAbstractClass.project" Active="No"/>
+  <Project Name="InterfaceComplete" Path="../InterfaceComplete/InterfaceComplete/InterfaceComplete.project" Active="No"/>
+  <Project Name="Challenge" Path="../Challenge/Challenge/Challenge.project" Active="No"/>
+  <Project Name="OverloadOperatorRep" Path="../OverloadOperatorRep/OverloadOperatorRep/OverloadOperatorRep.project" Active="No"/>
+  <Project Name="RetryChallenge" Path="../RetryChallenge/RetryChallenge/RetryChallenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TheProblem" ConfigName="Debug"/>
+      <Project Name="BaseClassPointers" ConfigName="Debug"/>
+      <Project Name="VirtualDestructor" ConfigName="Debug"/>
+      <Project Name="BaseClassReference" ConfigName="Debug"/>
+      <Project Name="PureVirtualFunctionAndAbstractClass" ConfigName="Debug"/>
+      <Project Name="InterfaceComplete" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="OverloadOperatorRep" ConfigName="Debug"/>
+      <Project Name="RetryChallenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TheProblem" ConfigName="Release"/>
+      <Project Name="BaseClassPointers" ConfigName="Release"/>
+      <Project Name="VirtualDestructor" ConfigName="Release"/>
+      <Project Name="BaseClassReference" ConfigName="Release"/>
+      <Project Name="PureVirtualFunctionAndAbstractClass" ConfigName="Release"/>
+      <Project Name="InterfaceComplete" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="OverloadOperatorRep" ConfigName="Release"/>
+      <Project Name="RetryChallenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

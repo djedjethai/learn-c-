@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10000">
+  <Project Name="Random" Path="Random/Random.project" Active="No"/>
+  <Project Name="FunctionDefinitions" Path="FunctionDefinitions/FunctionDefinitions.project" Active="No"/>
+  <Project Name="FunctionPrototypes" Path="FunctionPrototypes/FunctionPrototypes.project" Active="No"/>
+  <Project Name="FunctionAndPrototypesConvertTemp" Path="FunctionAndPrototypesConvertTemp/FunctionAndPrototypesConvertTemp.project" Active="No"/>
+  <Project Name="DefaultArgument" Path="DefaultArgument/DefaultArgument.project" Active="No"/>
+  <Project Name="OverLoading" Path="OverLoading/OverLoading.project" Active="No"/>
+  <Project Name="ArrayAndFunction" Path="ArrayAndFunction/ArrayAndFunction.project" Active="No"/>
+  <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
+  <Project Name="ScopeExemple" Path="ScopeExemple/ScopeExemple.project" Active="No"/>
+  <Project Name="HowFunctionsCallsWork" Path="HowFunctionsCallsWork/HowFunctionsCallsWork.project" Active="No"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+  <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Random" ConfigName="Debug"/>
+      <Project Name="FunctionDefinitions" ConfigName="Debug"/>
+      <Project Name="FunctionPrototypes" ConfigName="Debug"/>
+      <Project Name="FunctionAndPrototypesConvertTemp" ConfigName="Debug"/>
+      <Project Name="DefaultArgument" ConfigName="Debug"/>
+      <Project Name="OverLoading" ConfigName="Debug"/>
+      <Project Name="ArrayAndFunction" ConfigName="Debug"/>
+      <Project Name="PassByReference" ConfigName="Debug"/>
+      <Project Name="ScopeExemple" ConfigName="Debug"/>
+      <Project Name="HowFunctionsCallsWork" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Random" ConfigName="Release"/>
+      <Project Name="FunctionDefinitions" ConfigName="Release"/>
+      <Project Name="FunctionPrototypes" ConfigName="Release"/>
+      <Project Name="FunctionAndPrototypesConvertTemp" ConfigName="Release"/>
+      <Project Name="DefaultArgument" ConfigName="Release"/>
+      <Project Name="OverLoading" ConfigName="Release"/>
+      <Project Name="ArrayAndFunction" ConfigName="Release"/>
+      <Project Name="PassByReference" ConfigName="Release"/>
+      <Project Name="ScopeExemple" ConfigName="Release"/>
+      <Project Name="HowFunctionsCallsWork" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

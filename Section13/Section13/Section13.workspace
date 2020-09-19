@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section13" Database="" Version="10000">
+  <Project Name="DeclareClassesAndObjects" Path="../DeclareClassesAndObjects/DeclareClassesAndObjects/DeclareClassesAndObjects.project" Active="No"/>
+  <Project Name="AccessinClassMember" Path="../AccessinClassMember/AccessinClassMember/AccessinClassMember.project" Active="No"/>
+  <Project Name="ImplementingMethod1" Path="../ImplementingMethod1/ImplementingMethod1/ImplementingMethod1.project" Active="No"/>
+  <Project Name="ImplementingMethod2" Path="../ImplementingMethod2/ImplementingMethod2/ImplementingMethod2.project" Active="Yes"/>
+  <Project Name="DefaultConstructors" Path="../DefaultConstructors/DefaultConstructors/DefaultConstructors.project" Active="No"/>
+  <Project Name="ConstructorInitialisationLists" Path="../ConstructorInitialisationLists/ConstructorInitialisationLists/ConstructorInitialisationLists.project" Active="No"/>
+  <Project Name="ShallowCopy" Path="../ShallowCopy/ShallowCopy/ShallowCopy.project" Active="No"/>
+  <Project Name="DeepCopy" Path="../DeepCopy/DeepCopy/DeepCopy.project" Active="No"/>
+  <Project Name="MoveConstructor" Path="../MoveConstructor/MoveConstructor/MoveConstructor.project" Active="No"/>
+  <Project Name="ConstInClass" Path="../ConstInClass/ConstInClass/ConstInClass.project" Active="No"/>
+  <Project Name="StaticClassMember" Path="../StaticClassMember/StaticClassMember/StaticClassMember.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClassesAndObjects" ConfigName="Debug"/>
+      <Project Name="AccessinClassMember" ConfigName="Debug"/>
+      <Project Name="ImplementingMethod1" ConfigName="Debug"/>
+      <Project Name="ImplementingMethod2" ConfigName="Debug"/>
+      <Project Name="DefaultConstructors" ConfigName="Debug"/>
+      <Project Name="ConstructorInitialisationLists" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
+      <Project Name="DeepCopy" ConfigName="Debug"/>
+      <Project Name="MoveConstructor" ConfigName="Debug"/>
+      <Project Name="ConstInClass" ConfigName="Debug"/>
+      <Project Name="StaticClassMember" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClassesAndObjects" ConfigName="Release"/>
+      <Project Name="AccessinClassMember" ConfigName="Release"/>
+      <Project Name="ImplementingMethod1" ConfigName="Release"/>
+      <Project Name="ImplementingMethod2" ConfigName="Release"/>
+      <Project Name="DefaultConstructors" ConfigName="Release"/>
+      <Project Name="ConstructorInitialisationLists" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
+      <Project Name="DeepCopy" ConfigName="Release"/>
+      <Project Name="MoveConstructor" ConfigName="Release"/>
+      <Project Name="ConstInClass" ConfigName="Release"/>
+      <Project Name="StaticClassMember" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

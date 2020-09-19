@@ -1,0 +1,1 @@
+Debug/InsufficientFundsException.cpp.o Debug/IllegalBalanceException.cpp.o Debug/SavingAccount.cpp.o Debug/Account.cpp.o Debug/main.cpp.o Debug/CheckingAccount.cpp.o Debug/Iprintable.cpp.o Debug/TrustAccount.cpp.o Debug/Utile.cpp.o

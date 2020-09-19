@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section18" Database="" Version="10000">
+  <Project Name="MPG" Path="../MPG/MPG/MPG.project" Active="No"/>
+  <Project Name="MPGfunction" Path="../MPGfunction/MPGfunction/MPGfunction.project" Active="No"/>
+  <Project Name="StackUnwinding" Path="../StackUnwinding/StackUnwinding/StackUnwinding.project" Active="No"/>
+  <Project Name="functionExceptionClass" Path="../functionExceptionClass/functionExceptionClass/functionExceptionClass.project" Active="No"/>
+  <Project Name="classExceptionInAccount" Path="../classExceptionInAccount/classExceptionInAccount/classExceptionInAccount.project" Active="No"/>
+  <Project Name="RetryChallenge" Path="../../Section16/RetryChallenge/RetryChallenge/RetryChallenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Debug"/>
+      <Project Name="MPGfunction" ConfigName="Debug"/>
+      <Project Name="StackUnwinding" ConfigName="Debug"/>
+      <Project Name="functionExceptionClass" ConfigName="Debug"/>
+      <Project Name="classExceptionInAccount" ConfigName="Debug"/>
+      <Project Name="RetryChallenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Release"/>
+      <Project Name="MPGfunction" ConfigName="Release"/>
+      <Project Name="StackUnwinding" ConfigName="Release"/>
+      <Project Name="functionExceptionClass" ConfigName="Release"/>
+      <Project Name="classExceptionInAccount" ConfigName="Release"/>
+      <Project Name="RetryChallenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

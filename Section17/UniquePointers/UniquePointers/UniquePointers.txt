@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/Account.cpp.o Debug/SavingAccount.cpp.o Debug/CheckingAccount.cpp.o Debug/Utile.cpp.o Debug/Iprintable.cpp.o Debug/TrustAccount.cpp.o

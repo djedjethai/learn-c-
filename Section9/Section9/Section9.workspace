@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="Shipping" Path="../Shipping/Shipping/Shipping.project" Active="No"/>
+  <Project Name="forLoop" Path="../forLoop/forLoop/forLoop.project" Active="No"/>
+  <Project Name="RangeBaseForLoop" Path="../RangeBaseForLoop/RangeBaseForLoop/RangeBaseForLoop.project" Active="No"/>
+  <Project Name="DoWhile" Path="../DoWhile/DoWhile/DoWhile.project" Active="No"/>
+  <Project Name="Histogram" Path="../Histogram/Histogram/Histogram.project" Active="No"/>
+  <Project Name="Challenge" Path="../Challenge/Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Shipping" ConfigName="Debug"/>
+      <Project Name="forLoop" ConfigName="Debug"/>
+      <Project Name="RangeBaseForLoop" ConfigName="Debug"/>
+      <Project Name="DoWhile" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Shipping" ConfigName="Release"/>
+      <Project Name="forLoop" ConfigName="Release"/>
+      <Project Name="RangeBaseForLoop" ConfigName="Release"/>
+      <Project Name="DoWhile" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

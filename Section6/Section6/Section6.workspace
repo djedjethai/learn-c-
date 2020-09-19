@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section6" Database="" Version="10000">
+  <Project Name="Section6" Path="Section6/Section6.project" Active="No"/>
+  <Project Name="climits" Path="climits/climits.project" Active="No"/>
+  <Project Name="Constant" Path="Constant/Constant.project" Active="No"/>
+  <Project Name="Array" Path="Array/Array.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="MixedExpression" Path="Operator/Operator.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Section6" ConfigName="Debug"/>
+      <Project Name="climits" ConfigName="Debug"/>
+      <Project Name="Constant" ConfigName="Debug"/>
+      <Project Name="Array" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="MixedExpression" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Section6" ConfigName="Release"/>
+      <Project Name="climits" ConfigName="Release"/>
+      <Project Name="Constant" ConfigName="Release"/>
+      <Project Name="Array" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="MixedExpression" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
